@@ -23,7 +23,7 @@ a=[[5,-3,-10],[2,2,-3],[-3,-1,5]]
 print(n.linalg.matrix_rank(a))
 ```
 ## Output:
-![rank_output](https://github.com/SETHUKKARASI3006/RANK-OF-A-MATRIX/assets/144979338/94bc5850-5f19-4023-aa07-3a81189881b6)
+![rank_output](https://github.com/SETHUKKARASI3006/RANK-OF-A-MATRIX/assets/144979338/403c304c-6b84-465d-a18c-b30790923fe9)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
